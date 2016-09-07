@@ -5,7 +5,7 @@
 ################################################################################
 
 BEAGLEBOARD_HELLOWORLD_QT_VERSION = master
-BEAGLEBOARD_HELLOWORLD_QT_SITE = https://github.com/c2h2/buildroot-2016.08.git
+BEAGLEBOARD_HELLOWORLD_QT_SITE = https://github.com/c2h2/beaglebone_hello_world_qt.git
 BEAGLEBOARD_HELLOWORLD_QT_SITE_METHOD = git
 BEAGLEBOARD_HELLOWORLD_QT_INSTALL_STAGING = YES
 BEAGLEBOARD_HELLOWORLD_QT_DEPENDENCIES = qt
