@@ -1744,4 +1744,8 @@ menu "Text editors and viewers"
 	source "package/vim/Config.in"
 endmenu
 
+menu "Examples on Qt"
+	source "package/beagleboard-helloworld-qt/Config.in"
+endmenu
+
 endmenu
