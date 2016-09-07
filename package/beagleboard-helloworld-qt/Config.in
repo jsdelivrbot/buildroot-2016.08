@@ -1,0 +1,7 @@
+config BR2_PACKAGE_BEAGLEBOARD_HELLOWORLD_QT
+	bool "Beagleboard Hello world example on Qt"
+	select BR2_PACKAGE_QT
+	select BR2_PACKAGE_QT_GUI_MODULE
+	help
+          Example application.
+
